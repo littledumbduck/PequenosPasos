@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores base del sistema -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Tokens funcionales Pequeños Pasos -->
+    <color name="background">#FFFFFFFF</color>
+    <color name="surface_container">#FFF4F4F6</color>
+    <color name="primary">#FF002C4E</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="primary_container">#FFE1EAF3</color>
+    <color name="on_primary_container">#FF002C4E</color>
+    <color name="on_surface_variant">#FF666666</color>
+    <color name="shadow">#1F000000</color>
+</resources>

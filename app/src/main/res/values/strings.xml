@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pequeños Pasos</string>
+
+    <!-- Barra de búsqueda -->
+    <string name="hint_buscar">Buscar ropa, tallas...</string>
+
+    <!-- Filtros de edad -->
+    <string name="filtro_edad_1">1-3 años</string>
+    <string name="filtro_edad_2">3-6 años</string>
+    <string name="filtro_edad_3">6-9 años</string>
+
+    <!-- Categorías -->
+    <string name="categoria_bebes">Bebés 0-24 meses</string>
+    <string name="categoria_ninos">Niños</string>
+    <string name="categoria_ninas">Niñas</string>
+
+    <!-- Novedades -->
+    <string name="titulo_novedades">Novedades</string>
+    <string name="producto_articulo">Artículo</string>
+
+    <!-- Navegación inferior -->
+    <string name="nav_inicio">INICIO</string>
+    <string name="nav_catalogo">Catálogo</string>
+    <string name="nav_favoritos">Favoritos</string>
+</resources>
